@@ -10,4 +10,8 @@ Oi, meu nome é **Rafaela**🙋🏻‍♀️.
 
 ## Habilidades 👩🏻‍🎓 
 
-<img src="Imagens/Adobe-Illustrator-Logo.png" alt="Illustrator" width: 10px;> <img src="Imagens/Adobe-Photoshop-Logo.png" alt="Photoshop" width: 10px;> <img src="Imagens/Logo-JS.png" alt="JavaScript" width: 10px;> <img src="Imagens/html5-logo.png" alt="HTML" width: 10px;> <img src="Imagens/CSS-Logo.png" alt="CSS" width: 10px;>
+<img src="Imagens/Adobe-Illustrator-Logo.png" alt="Illustrator"> 
+<img src="Imagens/Adobe-Photoshop-Logo.png" alt="Photoshop"> 
+<img src="Imagens/Logo-JS.png" alt="JavaScript"> 
+<img src="Imagens/html5-logo.png" alt="HTML"> 
+<img src="Imagens/CSS-Logo.png" alt="CSS">
