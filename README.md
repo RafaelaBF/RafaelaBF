@@ -4,6 +4,8 @@ Oi, meu nome é **Rafaela**🙋🏻‍♀️.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-bezerra-9a7693211/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](gmail:rafaelabezerra2004@gmail.com)
 
+<img src="Imagens/Octocat.png" alt="Hi!" width="70" align="right">
+
  - 🌍Sou brasileira;
  - 📚💻Estudante de T.I (técnico em informática) no CEFET-RJ.
  - 👩🏻‍💻Adoro programação e design.👩🏻‍🎨
