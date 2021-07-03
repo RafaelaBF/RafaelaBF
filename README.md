@@ -2,7 +2,7 @@
 
 Oi, meu nome é **Rafaela**🙋🏻‍♀️.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-bezerra-9a7693211/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](gmail:rafaelabezerra2004@gmail.com) [<img src="Imagens/Behance-Logo.png" alt="Behance" width="52">](https://www.behance.net/rafaelabf/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-bezerra-9a7693211/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafaelabezerra2004@gmail.com) [<img src="Imagens/Behance-Logo.png" alt="Behance" width="52">](https://www.behance.net/rafaelabf/)
 
 <img src="Imagens/Octocat.png" alt="Octocat" width="200" align="right">
 
