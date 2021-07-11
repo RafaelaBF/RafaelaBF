@@ -12,4 +12,4 @@ Oi, meu nome é **Rafaela**🙋🏻‍♀️.
 
 ## Habilidades 👩🏻‍🎓 
 
-<img src="Imagens/Adobe-Illustrator-Logo.png" alt="Illustrator" width="40">&nbsp;&nbsp; <img src="Imagens/Adobe-Photoshop-Logo.png" alt="Photoshop" width="40">&nbsp;&nbsp; <img src="Imagens/Logo-JS.png" alt="JavaScript" width="40">&nbsp;&nbsp; <img src="Imagens/html5-logo.png" alt="HTML" width="35">&nbsp;&nbsp; <img src="Imagens/CSS-Logo.png" alt="CSS" width="40">
+<img src="Imagens/Adobe-Illustrator-Logo.png" alt="Illustrator" width="40">&nbsp;&nbsp; <img src="Imagens/Adobe-Photoshop-Logo.png" alt="Photoshop" width="40">&nbsp;&nbsp; <img src="Imagens/Logo-JS.png" alt="JavaScript" width="40">&nbsp;&nbsp; <img src="Imagens/html5-logo.png" alt="HTML" width="35">&nbsp;&nbsp; <img src="Imagens/CSS-Logo.png" alt="CSS" width="40">&nbsp; <img src="Imagens/logo_portugol.png" alt="Portugol" width="35">
