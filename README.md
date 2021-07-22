@@ -2,7 +2,7 @@
 
 Oi, meu nome é **Rafaela**🙋🏻‍♀️.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-bezerra-9a7693211/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafaelabezerra2004@gmail.com) [<img src="Imagens/Behance_Logo.png" alt="Behance" width="45">](https://www.behance.net/rafaelabf/) [<img src="Imagens/Dio_Logo.png" alt="Digital Innovation One" width="45">](https://web.digitalinnovation.one/users/rafaelabezerra2004?tab=achievements)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelabf/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafaelabezerra2004@gmail.com) [<img src="Imagens/Behance_Logo.png" alt="Behance" width="45">](https://www.behance.net/rafaelabf/) [<img src="Imagens/Dio_Logo.png" alt="Digital Innovation One" width="45">](https://web.digitalinnovation.one/users/rafaelabezerra2004?tab=achievements) [<img src="Imagens/telegram-icon.png" alt="Telegram" width="65">](https://t.me/RafaelaBF)
 
 <img src="Imagens/Octocat.png" alt="Octocat" width="200" align="right">
 
