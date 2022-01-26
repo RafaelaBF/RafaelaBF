@@ -18,11 +18,11 @@ Oi, meu nome é **Rafaela**🙋🏻‍♀️.
 
 ### 💻 Linguagens👩🏻‍💻
 
-&nbsp;&nbsp;<img src="Imagens/Logo-JS.png" alt="JavaScript" width="40">&nbsp;&nbsp; <img src="Imagens/html5-logo.png" alt="HTML" width="35">&nbsp;&nbsp;<img src="Imagens/CSS-Logo.png" alt="CSS" width="40">&nbsp;<img src="Imagens/logo_portugol.png" alt="Portugol" width="35">&nbsp;<img src="Imagens/Python_logo.png" alt="Python logo" width="40">&nbsp;<img src="Imagens/logo_java.png" alt="Portugol" width="45"> &nbsp;<img src="Imagens\KotlinLogo.png" alt="Kotlin logo" width="40">&nbsp;<img src="Imagens\XML.png" alt="XML logo" width="45">&nbsp;<img src="Imagens\SQL.png" alt="SQL" width="39">&nbsp;<img src="Imagens\php-logo.png" alt="Android Studio logo" width="70">
+&nbsp;&nbsp;<img src="Imagens/Logo-JS.png" alt="JavaScript" width="40">&nbsp;&nbsp; <img src="Imagens/html5-logo.png" alt="HTML" width="35">&nbsp;&nbsp;<img src="Imagens/CSS-Logo.png" alt="CSS" width="40">&nbsp;<img src="Imagens/logo_portugol.png" alt="Portugol" width="35">&nbsp;<img src="Imagens/Python_logo.png" alt="Python logo" width="40">&nbsp;<img src="Imagens/logo_java.png" alt="Portugol" width="45"> &nbsp;<img src="Imagens\KotlinLogo.png" alt="Kotlin logo" width="40">&nbsp;<img src="Imagens\XML.png" alt="XML logo" width="45">&nbsp;<img src="Imagens\SQL.png" alt="SQL" width="39">&nbsp;<img src="Imagens\PHP-logo.png" alt="PHP logo" width="70">
 
 ### 💻IDEs e Ferramentas🔧
 
-&nbsp;&nbsp;<img src="Imagens\FirebaseLogo.png" alt="Firebase logo" width="33"> <img src="Imagens\AndroidStudioLogo.png" alt="Android Studio logo" width="36"> <img src="Imagens/Spyder_logo.png" alt="Spyder logo" width="40"> <img src="Imagens\VisualStudioCodeLogo.png" alt="Visual Studio Code logo" width="40"> &nbsp;<img src="Imagens\GitLogo.png" alt="MySQL logo" width="40"> &nbsp;<img src="Imagens\MySQL-Logo.png" alt="MySQL logo" width="70">
+&nbsp;&nbsp;<img src="Imagens\FirebaseLogo.png" alt="Firebase logo" width="33"> <img src="Imagens\AndroidStudio_Logo.png" alt="Android Studio logo" width="36">  <img src="Imagens/Spyder_logo.png" alt="Spyder logo" width="40"> <img src="Imagens\VisualStudioCodeLogo.png" alt="Visual Studio Code logo" width="40"> &nbsp;<img src="Imagens\GitLogo.png" alt="MySQL logo" width="40"> &nbsp;<img src="Imagens\MySQL-Logo.png" alt="MySQL logo" width="70">
 
 ##
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaBF&layout=compact&langs_count=7&theme=tokyonight"/>
