@@ -7,7 +7,8 @@ Oi, meu nome é **Rafaela**🙋🏻‍♀️.
 <img src="Imagens/Octocat.png" alt="Octocat" width="200" align="right">
 
  - 🌍Sou brasileira;
- - 📚💻Estudante de T.I (técnico em informática) no CEFET-RJ.
+ - 📚💻Formada em T.I (técnico em informática) no CEFET-RJ.
+ - 📚💻Graduanda em Ciência da computação pela Universidade Estácio de Sá.
  - 👩🏻‍💻Adoro programação e design.👩🏻‍🎨
 
 ## Habilidades 👩🏻‍🎓
