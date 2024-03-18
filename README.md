@@ -20,8 +20,6 @@
     <img src="Imagens/CardsCaderno.png" alt="Caderno" width="200" align="middle">
 </div>
 
-<hr>
-
 ## Contato 📲: 
 
 <div style="margin-left: 30px">
@@ -38,8 +36,6 @@
         <img src="Imagens/gmail.png" alt="gmail" width="100" align="middle">
     </a>
 </div>
-
-<hr>
 
 ## Estatísticas 📊:
 
