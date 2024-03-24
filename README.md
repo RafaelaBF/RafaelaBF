@@ -20,7 +20,7 @@
         <img src="Imagens/CardsHabilidade.png" alt="Habilidade" width="200" align="middle">
     </a>
 -->
-    <a href="">
+    <a href="https://github.com/RafaelaBF/RafaelaBF/tree/main/RepositorioDiretorio">
          <img src="Imagens/CardsRep.png" alt="Repositorios" width="200" align="middle">
     </a>
     <a href="https://github.com/RafaelaBF/Caderno?tab=readme-ov-file#caderno-">
