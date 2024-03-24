@@ -15,9 +15,17 @@
 <hr>
 
 <div align="center">
-    <img src="Imagens/CardsHabilidade.png" alt="Habilidade" width="200" align="middle">
-    <img src="Imagens/CardsRep.png" alt="Repositorios" width="200" align="middle">
-    <img src="Imagens/CardsCaderno.png" alt="Caderno" width="200" align="middle">
+<!--
+    <a href="">
+        <img src="Imagens/CardsHabilidade.png" alt="Habilidade" width="200" align="middle">
+    </a>
+-->
+    <a href="">
+         <img src="Imagens/CardsRep.png" alt="Repositorios" width="200" align="middle">
+    </a>
+    <a href="https://github.com/RafaelaBF/Caderno?tab=readme-ov-file#caderno-">
+        <img src="Imagens/CardsCaderno.png" alt="Caderno" width="200" align="middle">
+    </a> 
 </div>
 
 ## Contato 📲: 
@@ -29,7 +37,7 @@
     <a href="https://www.linkedin.com/in/rafaelabf/">
         <img src="Imagens/linkedin.png" alt="linkedin" width="110" align="middle">
     </a>
-    <a href="">
+    <a href="https://www.youtube.com/@devmiaw">
         <img src="Imagens/youtube.png" alt="youtube" width="110" align="middle">
     </a>
     <a href="mailto:rafaelabezerra2004@gmail.com">
