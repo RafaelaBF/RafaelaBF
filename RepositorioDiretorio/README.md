@@ -4,7 +4,7 @@
 
 <hr>
 
-Para ajudar outras pessoas a encontrar meus projetos, eles estão divididos tópicos com suas descrição.
+Para ajudar outras pessoas a encontrar meus projetos, eles estão divididos em tópicos com suas descrições.
 
 ## Mini-Projetos ⚙️
 - [Hello Word][9]

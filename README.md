@@ -41,6 +41,7 @@
 
 <details>
   <summary><b>🧠 &nbsp;Conhecimentos técnicos Avançados</b></summary>
+&nbsp;
 
 <table>
     <tr>
@@ -101,6 +102,7 @@
 
 <details>
   <summary><b>🧠 &nbsp;Outros conhecimentos</b></summary>
+&nbsp;
 
 <table>
     <tr>
