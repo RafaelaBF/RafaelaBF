@@ -13,7 +13,7 @@ Para ajudar outras pessoas a encontrar meus projetos, eles estão divididos em t
 
 - [Display Music 🎵][12]
   - Display Music é um aplicativo de música desenvolvido em Kotlin, projetado para reproduzir faixas de áudio e fornecer uma experiência intuitiva de controle de mídia para o usuário.
-  - <img src="../Imagens/Kotlin.png" alt="Kotlin" width="81"  style="margin-right: 5px"><img src="../Imagens/XML.png" alt="Markdown" width="67"  style="margin-right: 5px"><img src="../Imagens/Android.png" alt="Android" width="83"  style="margin-right: 5px"><img src="../Imagens/Firebase.png" alt="Firebase" width="83"  style="margin-right: 5px"><img src="../Imagens/Json.png" alt="Json" width="67"  style="margin-right: 5px">
+  - <img src="../Imagens/Kotlin.png" alt="Kotlin" width="81" style="margin-right: 5px"> <img src="../Imagens/XML.png" alt="Markdown" width="67" style="margin-right: 5px"> <img src="../Imagens/Android.png" alt="Android" width="83" style="margin-right: 5px"> <img src="../Imagens/Firebase.png" alt="Firebase" width="83"  style="margin-right: 5px"> <img src="../Imagens/Json.png" alt="Json" width="67" style="margin-right: 5px"> 
 
 ## Mini-Projetos ⚙️
 - [Hello Word][9]
