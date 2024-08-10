@@ -6,6 +6,15 @@
 
 Para ajudar outras pessoas a encontrar meus projetos, eles estão divididos em tópicos com suas descrições.
 
+## Projetos ⚙️
+- [Caderno][11]
+  - Aqui faço anotações de aprendizados que tive em cursos e livros separados em tópicos. Em geral tudo voltado a tecnologia.
+  - <img src="../Imagens/Markdown.png" alt="Markdown" width="100"  style="margin-right: 5px">
+
+- [Display Music 🎵][12]
+  - Display Music é um aplicativo de música desenvolvido em Kotlin, projetado para reproduzir faixas de áudio e fornecer uma experiência intuitiva de controle de mídia para o usuário.
+  - <img src="../Imagens/Kotlin.png" alt="Kotlin" width="81"  style="margin-right: 5px"><img src="../Imagens/XML.png" alt="Markdown" width="67"  style="margin-right: 5px"><img src="../Imagens/Android.png" alt="Android" width="83"  style="margin-right: 5px"><img src="../Imagens/Firebase.png" alt="Firebase" width="83"  style="margin-right: 5px"><img src="../Imagens/Json.png" alt="Json" width="67"  style="margin-right: 5px">
+
 ## Mini-Projetos ⚙️
 - [Hello Word][9]
   - Para manter a tradição.
@@ -13,9 +22,6 @@ Para ajudar outras pessoas a encontrar meus projetos, eles estão divididos em t
 - [Bhaskara][10]
   - Programa em python que recebe uma equação 2° grau completa e retorna as raízes, os vértices, a forma fatorada e concavidade da parábola.
   - <img src="../Imagens/Python.png" alt="python" width="70"  style="margin-right: 5px">
-- [Caderno][11]
-  - Aqui faço anotações de aprendizados que tive em cursos e livros separados em tópicos. Em geral tudo voltado a tecnologia.
-  - <img src="../Imagens/Markdown.png" alt="Markdown" width="100"  style="margin-right: 5px">
 
 ## Trabalhos do CEFET 💻
 Reposítorios, com projeto ou explicações, que fiz enquanto estava no meu técnico em informática no CEFET-RJ. 
@@ -57,3 +63,4 @@ Reposítorios, com projeto ou explicações, que fiz enquanto estava no meu téc
 [9]: https://github.com/RafaelaBF/HelloWorld?tab=readme-ov-file#helloworld
 [10]: https://github.com/RafaelaBF/Bhaskara_Python?tab=readme-ov-file#bhaskara-
 [11]: https://github.com/RafaelaBF/Caderno?tab=readme-ov-file#caderno-
+[12]: https://github.com/RafaelaBF/DisplayMusic
