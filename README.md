@@ -4,7 +4,7 @@
 
 <hr>
 
-<img src="Imagens/Octocat_RafaelaBF.png" alt="Octocat" width="250" align="right">
+<img src="Imagens/Octocat_RafaelaBF.png" alt="Octocat" width="200" align="right">
 
  - 🌍Sou brasileira;
  - 📚💻Formada em T.I (técnico em informática) no CEFET-RJ.
