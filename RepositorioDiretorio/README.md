@@ -13,7 +13,11 @@ Para ajudar outras pessoas a encontrar meus projetos, eles estão divididos em t
 
 - [Display Music 🎵][12]
   - Display Music é um aplicativo de música desenvolvido em Kotlin, projetado para reproduzir faixas de áudio e fornecer uma experiência intuitiva de controle de mídia para o usuário.
-  - <img src="../Imagens/Kotlin.png" alt="Kotlin" width="81" style="margin-right: 5px"> <img src="../Imagens/XML.png" alt="Markdown" width="67" style="margin-right: 5px"> <img src="../Imagens/Android.png" alt="Android" width="83" style="margin-right: 5px"> <img src="../Imagens/Firebase.png" alt="Firebase" width="83"  style="margin-right: 5px"> <img src="../Imagens/Json.png" alt="Json" width="67" style="margin-right: 5px"> 
+  - <img src="../Imagens/Kotlin.png" alt="Kotlin" width="81" style="margin-right: 5px"> <img src="../Imagens/XML.png" alt="Markdown" width="67" style="margin-right: 5px"> <img src="../Imagens/Android.png" alt="Android" width="83" style="margin-right: 5px"> <img src="../Imagens/Firebase.png" alt="Firebase" width="83"  style="margin-right: 5px"> <img src="../Imagens/Json.png" alt="Json" width="67" style="margin-right: 5px">
+ 
+- [Bootcamp Claro - Java com Spring Boot][13]
+  - Este repositório contém os projetos desenvolvidos durante o Bootcamp "Construa uma API com Java e Spring de ponta a ponta!", oferecido pela Claro.
+  - <img src="../Imagens/Java.png" alt="java" width="60" style="margin-right: 5px"> <img src="../Imagens/SpringBoot.png" alt="java" width="80" style="margin-right: 5px"> 
 
 ## Mini-Projetos ⚙️
 - [Hello Word][9]
@@ -64,3 +68,4 @@ Reposítorios, com projeto ou explicações, que fiz enquanto estava no meu téc
 [10]: https://github.com/RafaelaBF/Bhaskara_Python?tab=readme-ov-file#bhaskara-
 [11]: https://github.com/RafaelaBF/Caderno?tab=readme-ov-file#caderno-
 [12]: https://github.com/RafaelaBF/DisplayMusic
+[13]: https://github.com/RafaelaBF/Bootcamp_JavaSpringBoot_Claro
